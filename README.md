@@ -1,0 +1,1 @@
+Resize all images (*.jpg) in current direcotry to width 500
